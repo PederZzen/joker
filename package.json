@@ -1,11 +1,11 @@
 {
   "name": "espens-joker",
-  "version": "0.1.2",
+  "version": "0.0.5",
   "description": "Application that tells jokes",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
-    "test": "node src/js/joker.js",
+    "test": "node src/js/joker.test.js",
     "format": "prettier -w src/js/joker.js"
   },
   "repository": {
