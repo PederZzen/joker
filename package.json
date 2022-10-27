@@ -1,6 +1,6 @@
 {
   "name": "espens-joker",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Application that tells jokes",
   "type": "module",
   "main": "src/index.js",
